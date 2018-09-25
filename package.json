@@ -1,0 +1,10 @@
+{
+  "name": "next-livescript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "livescript": "^1.6.0",
+    "livescript-loader": "^0.1.6"
+  }
+}
